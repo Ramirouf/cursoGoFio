@@ -1,0 +1,25 @@
+{
+    "nombre": "Ramiro",
+    "apellido": "Uffelmann",
+    "lenguajes": [
+        "Javascript",
+        "Python",
+        "C++"
+    ],
+    "edad": 21,
+    "experiencia": [
+        {
+            "empresa": "Microsoft",
+            "antiguedad": 5
+        },
+        {
+            "empresa": "Google",
+            "antiguedad": 3
+        }
+    ],
+    "direccion": {
+        "calle": "calle 4",
+        "numero": 1234,
+        "codigoPostal": 0
+    }
+}
